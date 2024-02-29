@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kristirrapaj
 
-<h2>Junior Software Developer</h2>
+<h2>Software Developer</h2>
 Currently working for <a href="https://www.sister.it/">Sistemi Territoriali</a> in the GIS software department for public utilities.
 
 <h2>Projects</h2>
